@@ -1,0 +1,19 @@
+﻿  Audio.cpp
+  Display.cpp
+  lightShader.cpp
+  main.cpp
+  MainGame.cpp
+E:\Uni\Ritchie GP\Graphics Programming\Lab1\MainGame.cpp(217,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Uni\Ritchie GP\Graphics Programming\Lab1\MainGame.cpp(218,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Uni\Ritchie GP\Graphics Programming\Lab1\MainGame.cpp(333,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Uni\Ritchie GP\Graphics Programming\Lab1\MainGame.cpp(334,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+E:\Uni\Ritchie GP\Graphics Programming\Lab1\Mesh.cpp(62,9): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  obj_loader.cpp
+E:\Uni\Ritchie GP\Graphics Programming\Lab1\obj_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Overlay.cpp
+  Shader.cpp
+  Texture.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> E:\Uni\Ritchie GP\Graphics Programming\Debug\Lab1.exe
